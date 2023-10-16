@@ -1,4 +1,2 @@
 # Semantic-Segmentation
-Applied the comprehensive knowledge and practical skills gained from a Signal, Image and Video course specializing in Image Semantic Segmentation, 
-which covered real-world applications and involved hands-on experience with various segmentation architectures, data preprocessing, performance evaluation, and hyperparameter optimization, 
-resulting in successful deployment of semantic segmentation for image analysis in a project."
+Leveraged comprehensive knowledge and practical skills acquired from a deep learning course specializing in Image Semantic Segmentation, encompassing real-world applications, hands-on experience with diverse segmentation architectures, data preprocessing, performance evaluation, and hyperparameter optimization, to successfully deploy semantic segmentation for image analysis in a project. This project specifically tackled the intricate task of automatic food tray analysis in canteens and restaurants, introducing an innovative U-Net-based approach that unified food localization, recognition, and segmentation to achieve precise prediction of multiple food items from tray images.
